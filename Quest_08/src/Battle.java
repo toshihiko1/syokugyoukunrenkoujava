@@ -9,6 +9,12 @@ public class Battle {
     private Majic majic = null;
 
     //コンストラクタ
+    /**
+     * コンストラクタ
+     * @param name 名前
+     * @param hp 体力
+     * @param mp マジックポイント
+     */
     public Battle(String name, int hp, int mp) {
         this.name = name;
         this.hp = hp;
