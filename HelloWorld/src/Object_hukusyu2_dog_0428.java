@@ -1,4 +1,4 @@
-public class Object_hukusyu2_0428 {
+public class Object_hukusyu2_dog_0428 {
     public static void main(String[] args) throws Exception {
         Dog dogA = new Dog("人型");
         dogA.setName("リッキー");

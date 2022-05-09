@@ -1,4 +1,4 @@
-public class Object_hukusyu3_0428 {
+public class Object_ouyou1_0502 {
     public static void main(String[] args) throws Exception {
         Cat catA = new Cat("リッキー猫", 0);
         catA.showProfile();
@@ -19,5 +19,6 @@ public class Object_hukusyu3_0428 {
         for(int i = 0; i <= 3; i++) {
             animalTeam[i].speak();
         }
+
     }
 }

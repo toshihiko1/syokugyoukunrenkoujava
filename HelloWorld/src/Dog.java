@@ -7,6 +7,10 @@ public class Dog {
         this.syurui = syurui;
     }
 
+    /**
+     * 名前の設定
+     * @param name 
+     */
     public void setName(String name) {
         this.name = name;
     }
